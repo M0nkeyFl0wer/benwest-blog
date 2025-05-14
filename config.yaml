@@ -1,0 +1,40 @@
+title: "Ben West"
+baseURL: "https://m0nkeyfl0wer.github.io/"
+theme: "PaperMod"
+defaultContentLanguage: "en"
+paginate: 5
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+params:
+  env: production
+  description: "Strategy, media, democracy, and the politics of pretending."
+  author: "Ben West"
+  defaultTheme: "dark"
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+
+  assets:
+    disableFingerprinting: true
+
+  profileMode:
+    enabled: true
+    title: "Ben West"
+    subtitle: "Writer, strategist, and recovering campaigner."
+    imageUrl: "profile.jpg"
+    imageTitle: "Ben West"
+    buttons:
+      - name: Posts
+        url: "/posts"
+      - name: Bluesky
+        url: "https://bsky.app/profile/benwest.bsky.social"
+
+markup:
+  highlight:
+    noClasses: false
