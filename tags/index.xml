@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ben West</title>
-    <link>/tags/</link>
+    <link>https://m0nkeyfl0wer.github.io/benwest-blog/tags/</link>
     <description>Recent content in Tags on Ben West</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en</language>
     <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://m0nkeyfl0wer.github.io/benwest-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biometrics</title>
-      <link>/tags/biometrics/</link>
+      <link>https://m0nkeyfl0wer.github.io/benwest-blog/tags/biometrics/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/biometrics/</guid>
+      <guid>https://m0nkeyfl0wer.github.io/benwest-blog/tags/biometrics/</guid>
       <description></description>
     </item>
     <item>
       <title>Surveillance</title>
-      <link>/tags/surveillance/</link>
+      <link>https://m0nkeyfl0wer.github.io/benwest-blog/tags/surveillance/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/surveillance/</guid>
+      <guid>https://m0nkeyfl0wer.github.io/benwest-blog/tags/surveillance/</guid>
       <description></description>
     </item>
     <item>
       <title>Worldcoin</title>
-      <link>/tags/worldcoin/</link>
+      <link>https://m0nkeyfl0wer.github.io/benwest-blog/tags/worldcoin/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/worldcoin/</guid>
+      <guid>https://m0nkeyfl0wer.github.io/benwest-blog/tags/worldcoin/</guid>
       <description></description>
     </item>
   </channel>
