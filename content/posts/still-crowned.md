@@ -15,6 +15,11 @@ I spent part of my morning listening to the swearing-in ceremony for Canada’s 
 
 In 2025. In a modern democracy. In a country where we pride ourselves on being independent, progressive, and self-governing, we are still asking ministers—our most powerful elected officials—to pledge fealty not to the people, not even to the Constitution, but to a literal king.
 
+<p align="center">
+  <img src="/benwest-blog/assets/king-charles-2-ap-gmh-240514_1715704383984_hpMain-1807543252.jpg" alt="King Charles in ceremonial red" width="70%">
+  <br><em>Still here. Still crowned.</em>
+</p>
+
 And not just a king. This king. The guy who couldn’t even get his own pens to work during his coronation tour. The guy who wears jewels stolen from colonized nations and sits atop an institution built on centuries of slavery, imperialism, and violent dispossession.
 
 Let’s be clear: this isn't just ceremonial fluff. Canada may pretend to be a modern democracy with a decorative crown, but the reality is more twisted: we are a monarchy pretending not to be one. And the consequences of that show up in subtle—and not-so-subtle—ways.
