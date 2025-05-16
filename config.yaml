@@ -1,10 +1,10 @@
 title: "Ben West"
-baseURL: "https://m0nkeyfl0wer.github.io/"
+baseURL: "https://m0nkeyfl0wer.github.io/benwest-blog/"
 theme: "PaperMod"
 defaultContentLanguage: "en"
-paginate: 5
 
-publishDir: "public"
+pagination:
+  pagerSize: 5
 
 taxonomies:
   category: categories
@@ -12,31 +12,21 @@ taxonomies:
   series: series
 
 params:
-  env: production
-  description: "Strategy, media, democracy, and the politics of pretending."
   author: "Ben West"
+  description: "Writing, research, and anti-royalist ramblings."
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+  ShowToc: true
+  TocOpen: true
+  comments: false
   defaultTheme: "dark"
   disableThemeToggle: false
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowCodeCopyButtons: true
-  ShowToc: true
 
-  assets:
-    disableFingerprinting: true
 
-  profileMode:
-    enabled: true
-    title: "Ben West"
-    subtitle: "Writer, strategist, and recovering campaigner."
-    imageUrl: "profile.jpg"
-    imageTitle: "Ben West"
-    buttons:
-      - name: Posts
-        url: "/posts"
-      - name: Bluesky
-        url: "https://bsky.app/profile/benwest.bsky.social"
-
-markup:
-  highlight:
-    noClasses: false
+  socialIcons:
+    - name: "Bluesky"
+      url: "https://bsky.app/profile/benwest.bsky.social"
+    - name: "GitHub"
+      url: "https://github.com/M0nkeyFl0wer"
