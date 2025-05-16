@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://M0nkeyFl0wer.github.io/benwest.blog/sitemap.xml
