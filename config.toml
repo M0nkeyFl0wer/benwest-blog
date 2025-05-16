@@ -1,0 +1,19 @@
+
+baseURL = "https://M0nkeyFl0wer.github.io/benwest.blog/"
+languageCode = "en-us"
+title = "Ben West"
+theme = "PaperMod"
+enableRobotsTXT = true
+paginate = 6
+
+[params]
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  author = "Ben West"
+  homeInfoParams = { Title = "Ben West", Content = "Writer, strategist, surveillance critic." }
+
+[[menu.main]]
+  name = "Writing"
+  url = "/benwest.blog/posts/"
+  weight = 1
