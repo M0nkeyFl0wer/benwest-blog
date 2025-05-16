@@ -1,12 +1,11 @@
 ---
 title: "Still Crowned"
-date: 2025-05-17
-tags: ["monarchy", "canada", "republic"]
-categories: ["essays"]
+date: 2025-05-16
 summary: "A country that talks like a democracy but still curtsies like a colony."
+categories: ["essays"]
 image: "assets/Screenshot_2025-05-13-20-42-52-54_f9ee0578fe1cc94de7482bd41accb329.jpg"
----
-
+------
+![Banner image](/assets/Screenshot_2025-05-13-20-42-52-54_f9ee0578fe1cc94de7482bd41accb329.jpg)
 By Ben West
 
 I spent part of my morning listening to the swearing-in ceremony for Canada’s newest ministers, and what I heard stuck with me. Not the cabinet picks (though we could talk about that, too), but the words they were made to say: a solemn pledge of allegiance to "His Majesty King Charles the Third, his heirs and successors."
