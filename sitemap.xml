@@ -2,33 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://m0nkeyfl0wer.github.io/benwest-blog/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m0nkeyfl0wer.github.io/benwest-blog/posts/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m0nkeyfl0wer.github.io/benwest-blog/tags/biometrics/</loc>
+    <loc>/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m0nkeyfl0wer.github.io/benwest-blog/categories/</loc>
+    <loc>/tags/biometrics/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m0nkeyfl0wer.github.io/benwest-blog/categories/essays/</loc>
+    <loc>/categories/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m0nkeyfl0wer.github.io/benwest-blog/tags/surveillance/</loc>
+    <loc>/categories/essays/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m0nkeyfl0wer.github.io/benwest-blog/tags/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m0nkeyfl0wer.github.io/benwest-blog/tags/worldcoin/</loc>
+    <loc>/posts/still-crowned/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m0nkeyfl0wer.github.io/benwest-blog/posts/2025-05-16-worldcoin-warning/</loc>
+    <loc>/tags/surveillance/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m0nkeyfl0wer.github.io/benwest-blog/series/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/worldcoin/</loc>
+    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/2025-05-16-worldcoin-warning/</loc>
+    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
   </url>
 </urlset>
