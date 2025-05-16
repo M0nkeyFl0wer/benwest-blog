@@ -1,0 +1,39 @@
+Ha! Love it. That error happened because you pasted CSS directly into your terminal, and bash tried to run it like commands.
+
+
+---
+
+✅ Here’s What You Actually Want to Do
+
+Let’s create a custom.css file and wire it in cleanly.
+
+
+---
+
+✅ Step 1: Create the CSS File
+
+In Termux:
+
+mkdir -p assets/css
+nano assets/css/custom.css
+
+Then paste this CSS into the editor (press and hold to paste):
+
+body {
+  font-family: 'IBM Plex Serif', serif;
+  color: #e0e0e0;
+  background-color: #0e0e0e;
+  line-height: 1.6;
+}
+
+blockquote {
+  border-left: 4px solid #555;
+  padding-left: 1em;
+  font-style: italic;
+  color: #aaa;
+}
+
+
+
+	
+

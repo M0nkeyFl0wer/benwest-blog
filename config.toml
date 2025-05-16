@@ -12,7 +12,9 @@ paginate = 6
   ShowPostNavLinks = true
   author = "Ben West"
   homeInfoParams = { Title = "Ben West", Content = "Writer, strategist, surveillance critic." }
-
+[params.assets]
+  disableFingerprinting = true
+  css = ["css/custom.css"]
 [[menu.main]]
   name = "Writing"
   url = "/benwest.blog/posts/"
