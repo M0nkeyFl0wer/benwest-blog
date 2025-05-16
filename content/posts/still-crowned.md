@@ -1,3 +1,12 @@
+---
+title: "Still Crowned"
+date: 2025-05-17
+tags: ["monarchy", "canada", "republic"]
+categories: ["essays"]
+summary: "Reflections on Canada's relationship with the monarchy, and why it's time to let go."
+# image: "assets/still-crowned.jpg"
+---
+
 Still Crowned: A Monarchy We're Pretending Not to Be
 
 By Ben West
