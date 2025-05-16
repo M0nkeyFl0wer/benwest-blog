@@ -4,6 +4,8 @@ theme: "PaperMod"
 defaultContentLanguage: "en"
 paginate: 5
 
+publishDir: "public"
+
 taxonomies:
   category: categories
   tag: tags
