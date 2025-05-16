@@ -1,12 +1,10 @@
 ---
-
 title: "Still Crowned"
 date: 2025-05-17
 tags: ["monarchy", "canada", "republic"]
 categories: ["essays"]
 summary: "A country that talks like a democracy but still curtsies like a colony."
-image: "assets/Screenshot_2025-05-13-20-42-52-54_f9ee0578fe1cc94de7482bd41accb329.jpg""
-
+image: "assets/Screenshot_2025-05-13-20-42-52-54_f9ee0578fe1cc94de7482bd41accb329.jpg"
 ---
 
 By Ben West
