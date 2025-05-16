@@ -4,7 +4,7 @@ date: 2025-05-17
 tags: ["monarchy", "canada", "republic"]
 categories: ["essays"]
 summary: "Reflections on Canada's relationship with the monarchy, and why it's time to let go."
-# image: "assets/still-crowned.jpg"
+image: "assets/Screenshot_2025-05-13-20-42-52-54_f9ee0578fe1cc94de7482bd41accb329.jpg"
 ---
 
 Still Crowned: A Monarchy We're Pretending Not to Be
