@@ -1,0 +1,79 @@
+[33m8dc7bba549f555807580cd0204eee08514da81e8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Add working avatar and favicon
+static/favicon.ico
+static/images/avatar.png
+[33me2978fab659245429771d9005b54d686ce08e0fd[m Deploy with Stack theme using GitHub Actions
+archetypes/default.md
+hugo.toml
+themes/PaperMod
+[33m5d1041756e5eb8dcd10c05eaf074269dfe6b5c60[m Restore GitHub Actions deploy workflow
+.github/workflows/gh-pages.yml
+[33m3d377f951e702dd5fe7049df078fdd2036d4b503[m Restore Bluesky link in Stack config
+config.yaml
+[33m31aca301be5eb9554f27e6d7aaa4ac38f35f8642[m Fix: remove leading slash from avatar path
+config.yaml
+resources/_gen/images/img/avatar_hu_f509edb42ecc0ebd.png
+[33mc00df9d37b8bbc9a94a8bcfeb24627608a3732f6[m Fix: correct avatar path with leading slash
+config.yaml
+[33m75e2ee0bb0fd4c5cceaa5a1ef5e3f8c9d0ba2cc2[m Fix avatar image path
+config.yaml
+[33mb11360a1b83d69f8d6d41b9b9a91363d8debca94[m Add avatar image to static folder
+static/images/avatar.png
+[33mb58e1569d779c0661f51f0c0952583459e500c60[m Add Stack theme submodule
+.gitmodules
+assets/jsconfig.json
+resources/_gen/assets/scss/style.scss_77b10c8e87ff110a62c52933fe3f7f11.content
+resources/_gen/assets/scss/style.scss_77b10c8e87ff110a62c52933fe3f7f11.json
+themes/hugo-theme-stack
+[33m8e74987d91b5bb675eda04c5659f10fad8659ef9[m Clean up PaperMod overrides and switch to Stack
+.github/workflows/gh-pages.yml
+.gitmodules
+assets/css/custom.css
+config.yaml
+layouts/partials/custom-head.bak
+layouts/partials/extend_head.bak
+themes/PaperMod
+themes/stack
+[33mb2dda4dee5612b1fa1d3399d80f2afe00e3ccfe0[m Fix: include submodules in GitHub Actions
+.github/workflows/gh-pages.yml
+[33mbe17133d96ae8fa429426721b82bfee7795eb6a7[m Fix: apply layout to homepage
+content/_index.md
+[33md5755bd8edb515d938c73e4215bd2ea747ffe9d0[m Fix: correct baseURL for project pages
+.github/workflows/gh-pages.yml
+[33m7ebc55c43c79a3a1c4a070494a7aa692e8366607[m Trigger fresh deploy after setting Pages source
+trigger.txt
+[33mf842cadd5305577b18d40f691fba4c6207fe887b[m Fix homepage rendering with _index.md
+content/_index.md
+[33m5c1ddc7dee73f11c468d79bc6f79f7dd3aa506d9[m Temporarily disable custom layout overrides
+layouts/partials/custom-head.bak
+layouts/partials/extend_head.bak
+[33mc8d953ac96a3a47c12c684cd6bbec51541bf82d5[m Trigger redeploy after Pages config fix
+layouts/partials/custom-head.html
+layouts/partials/extend_head.html
+[33m961b1b330eb90c7ef467157837a300260c1300d6[m Rebuild site with correct baseURL
+config.yaml
+[33md649e4c9c7709997d7e515f9210e50660e3c9d45[m Fix: rebuild site with correct baseURL
+config.yaml
+[33m6e083c8fb337d91b6ae87c0a4943e3d4d5f5eb89[m Fix: specify gh-pages branch in workflow
+.github/workflows/gh-pages.yml
+[33m7a70354d7020d7e8db5601d291fe74be5dc36914[m Rebuild site with updated content and styling
+assets/css/custom.css
+config.yaml
+[33m6193d3c5b5ef313632759e923b753a3817d12687[m Add .gitignore to exclude build and lock files
+.gitignore
+[33m6fe5a0d7654f40dcb77cd22acee8a16afa563afe[m Update still-crowned.md
+content/posts/still-crowned.md
+[33md7b063f456c41c5afc9f0c83df68a52d339eedb2[m Update monarchy article with final edits
+content/posts/still-crowned.md
+[33m5733b6c60a7dece49eda97d6baa3e7ed45392cd0[m Temporarily remove custom domain for GitHub Pages fallback
+static/CNAME
+[33mcfd7396de628a0ee7125728aa94f41e03323c87f[m Switch to new.benwest.blog as custom domain
+static/CNAME
+[33m298e3b388516eec0f955355fa55e03a2a4b93156[m Add GitHub Pages deployment workflow
+.github/workflows/gh-pages.yml
+[33mfc2b8efe7e4cbc0e15f4ee6b8653918f48c32152[m Add custom domain
+static/CNAME
+[33mbf30f769817873050a464cf5c3a29201f27ac8c8[m Add monarchy article and initial site config
+.gitmodules
+config.yaml
+content/posts/still-crowned.md
+themes/PaperMod
