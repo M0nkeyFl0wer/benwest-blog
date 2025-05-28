@@ -16,7 +16,7 @@ params:
     avatar:
       enabled: true
       local: true
-      src: "assets/Screenshot_2025-05-13-20-42-52-54_f9ee0578fe1cc94de7482bd41accb329.jpg"
+      src: "images/avatar.png"
   social:
     - name: Bluesky
       icon: bsky
