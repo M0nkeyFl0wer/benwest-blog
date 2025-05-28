@@ -44,6 +44,9 @@ Let’s have that conversation. Let’s acknowledge the complexity, the history,
 
 Because in a democracy, we shouldn’t be pretending to be anything. We should be deciding who we are—together.
 
+![Minister pledging allegiance to King Charles III](/images/monarchy-oath.jpg)
+
+*Marjorie Michel being sworn in as Minister of Health, pledging “true allegiance” to King Charles III — as seen in CBC’s live broadcast of Carney’s new cabinet.*
 
 ---
 
