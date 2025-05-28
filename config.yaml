@@ -1,42 +1,26 @@
+baseURL: "https://M0nkeyFl0wer.github.io/benwest-blog/"
 title: "Ben West"
-baseURL: "https://m0nkeyfl0wer.github.io/benwest-blog/"
-theme: "PaperMod"
+theme: "hugo-theme-stack"
 defaultContentLanguage: "en"
-
-pagination:
-  pagerSize: 10
-
-taxonomies:
-  category: categories
-  tag: tags
-  series: series
+enableRobotsTXT: true
 
 params:
-  env: production
-  description: "Strategy, media and democracy."
-  defaultTheme: dark
-  disableThemeToggle: false
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowCodeCopyButtons: true
-  ShowToc: true
-
-  assets:
-    disableFingerprinting: true
-    customCSS:
-      - css/custom.css
-
-  profileMode:
-    enabled: true
-    title: "Ben West"
-    subtitle: "Writer, strategist, and recovering campaigner."
-    imageUrl: "profile.jpg"
-    imageTitle: "Ben West"
-    buttons:
-      - name: Posts
-        url: "/posts"
-      - name: Bluesky
-        url: "https://bsky.app/profile/benwest.bsky.social"
+  mainSections:
+    - posts
+  favicon: "/favicon.ico"
+  footer:
+    since: 2025
+    customText: "Made with Hugo and the Stack theme"
+  sidebar:
+    subtitle: "Campaigns, code, and critique"
+    avatar:
+      enabled: true
+      local: true
+      src: "assets/Screenshot_2025-05-13-20-42-52-54_f9ee0578fe1cc94de7482bd41accb329.jpg"
+  social:
+    - name: Bluesky
+      icon: bsky
+      url: "https://bsky.app/profile/benwest.bsky.social"
 
 markup:
   highlight:
