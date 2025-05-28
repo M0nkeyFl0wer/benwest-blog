@@ -2,7 +2,9 @@ title: "Ben West"
 baseURL: "https://m0nkeyfl0wer.github.io/"
 theme: "PaperMod"
 defaultContentLanguage: "en"
-paginate: 5
+
+pagination:
+  pagerSize: 10
 
 taxonomies:
   category: categories
@@ -11,9 +13,8 @@ taxonomies:
 
 params:
   env: production
-  description: "Strategy, media, democracy, and the politics of pretending."
-  author: "Ben West"
-  defaultTheme: "dark"
+  description: "Strategy, media and democracy."
+  defaultTheme: dark
   disableThemeToggle: false
   ShowReadingTime: true
   ShowShareButtons: true
@@ -22,6 +23,8 @@ params:
 
   assets:
     disableFingerprinting: true
+    customCSS:
+      - css/custom.css
 
   profileMode:
     enabled: true
