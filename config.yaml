@@ -1,4 +1,4 @@
-baseURL: "https://M0nkeyFl0wer.github.io/benwest-blog/"
+baseURL: "https://m0nkeyfl0wer.github.io/benwest-blog/"
 title: "Ben West"
 theme: "hugo-theme-stack"
 defaultContentLanguage: "en"
@@ -11,12 +11,7 @@ params:
       enabled: true
       local: true
       src: "images/avatar.png"
-
-  social:
-    - name: Bluesky
-      icon: bsky
-      url: "https://bsky.app/profile/benwest.bsky.social"
-
-markup:
-  highlight:
-    noClasses: false
+    links:
+      - icon: bsky
+        title: "Bluesky"
+        url: "https://bsky.app/profile/m0nkeyfl0wer.bsky.social"
