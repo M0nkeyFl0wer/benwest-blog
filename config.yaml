@@ -16,7 +16,7 @@ params:
     avatar:
       enabled: true
       local: true
-      src: "images/avatar.png"
+      src: "/images/avatar.png"
   social:
     - name: Bluesky
       icon: bsky
