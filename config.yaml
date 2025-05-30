@@ -3,6 +3,8 @@ title: "Ben West"
 theme: "hugo-theme-stack"
 defaultContentLanguage: "en"
 enableRobotsTXT: true
+pagination:
+  pagerSize: 10
 
 params:
   author:
