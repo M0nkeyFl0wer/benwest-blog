@@ -1,4 +1,11 @@
-baseURL = 'https://example.org/'
-theme = "hugo-theme-stack"
+baseURL = 'https://m0nkeyfl0wer.github.io/benwest-blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+theme = 'hugo-theme-stack'
+title = 'Ben West'
+
+[params]
+  mainSections = ['posts']
+  [params.avatar]
+    enabled = true
+    local = true
+    src = 'images/avatar.png'
